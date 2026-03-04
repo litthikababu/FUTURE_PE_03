@@ -1,4 +1,4 @@
-# Pillar Blog Prompt
+Pillar Blog Prompt
 
 You are an SEO strategist working for a tuition center website.
 
