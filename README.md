@@ -27,4 +27,5 @@ Supporting Blogs
 - Benefits of Small Batch Tuition
 
 Purpose
+
 The goal is to improve local search visibility and attract parents searching for tuition services in Bangalore.
